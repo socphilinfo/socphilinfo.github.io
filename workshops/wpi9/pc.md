@@ -13,6 +13,8 @@ title: Ninth Workshop on the Philosophy of Information
 ## Programme Committee
 
   * Andrew Iliadis (Temple University)
+  * Bart Van Kerkhove (Vrije Universiteit Brussel)
+  * Bert Leuridan (Universiteit Gent)
   * Eric Kerr (National University of Singapore)
   * Federica Russo (University of Amsterdam)
   * Giulia Frezza (Sapienza University of Rome)
