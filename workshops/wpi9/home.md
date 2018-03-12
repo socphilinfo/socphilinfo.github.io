@@ -26,7 +26,7 @@ Hertogsstraat 1, Brussels, Belgium.
 
 26-27 June 2018.  
 
-[Call for abstracts](/workshops/wpi9/call): 3O March.
+[Call for abstracts](/workshops/wpi9/call): 30 March.
 
 ### Invited Speakers
 
