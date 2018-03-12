@@ -25,12 +25,11 @@ Hertogsstraat 1, Brussels, Belgium.
 ###  Time
 
 26-27 June 2018.  
-[Call for abstracts](http://www.socphilinfo.org/workshops/wpi9/call): 15
-March.
+
+[Call for abstracts](/workshops/wpi9/call): 3O March.
 
 ### Invited Speakers
 
 [Nicola Mößner](http://moessner.stellarcom.org/)
-
-
+[Gemma Anderson](http://www.gemma-anderson.co.uk)
 

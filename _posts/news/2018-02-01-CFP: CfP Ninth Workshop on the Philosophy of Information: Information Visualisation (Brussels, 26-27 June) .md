@@ -2,19 +2,21 @@
 author: StefanoCanali
 category: news
 created: '2018-02-01'
+updates: '2018-03-12'
 layout: post
 redirect_from: [/node/548/, /news/cfp/548-cfp-ninth-workshop-philosophy-information-information-visualisation-brussels-26-27-june/]
 tags: [CFP]
 title: 'CFP: CfP Ninth Workshop on the Philosophy of Information: Information Visualisation
-  (Brussels, 26-27 June) '
+  (Brussels, 26-27 June) EXTENDED DEADLINE'
 ---
+
 _Ninth Workshop on the Philosophy of Information: Information Visualisation_
 
 June 26-27 2018
 
 Royal Flemish Academy of Belgium for Science and Arts, Brussels
 
-Website: [www.socphilinfo.org/workshops/wpi9](/workshops/wpi9).
+Website: [https://socphilinfo.github.io/workshops/wpi9](/workshops/wpi9).
 
 Submissions are invited for the Ninth Workshop on the Philosophy of
 Information, which will take place at the Royal Flemish Academy of Belgium for
@@ -47,15 +49,15 @@ Topics of interest include:
 
 **How to submit an abstract**
 
-Abstracts of **500-1000 words** should be submitted no later than 15 March
-2018 to socphilinfo@gmail.com. Submissions will be evaluated by the [programme
-committee](http://socphilinfo.org/workshops/wpi9/pc), and notification of
+Abstracts of **500-1000 words** should be submitted no later than 30 March
+2018 (**new date**) to socphilinfo@gmail.com. Submissions will be evaluated by the [programme
+committee](https://socphilinfo.github.io/workshops/wpi9/pc.html), and notification of
 acceptance will be issued by 15 April 2018.
 
 **Organisation and contact**
 
 The workshop is organised by the [Society for the Philosophy of
-Information](socphilinfo.org/).
+Information](https://socphilinfo.github.io).
 
 For any queries please contact Stefano Canali:
 mailto:stefano.canali@philos.uni-hannover.de.

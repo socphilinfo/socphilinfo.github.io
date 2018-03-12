@@ -46,7 +46,7 @@ proposed.
 
 ## Important Dates
 
-  * Submission of abstracts (500 words): 15 March 2018
+  * Submission of abstracts (500 words): 30 March 2018 (**extended**)
   * Decisions: 15 April 2018
   * Programme available: 15 May 2018
   * Workshop: 26-27 June 2018 at the Royal Flemish Academy of Belgium for Science and Arts in Brussels.
