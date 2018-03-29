@@ -30,6 +30,6 @@ Hertogsstraat 1, Brussels, Belgium.
 
 ### Invited Speakers
 
-[Nicola Mößner](http://moessner.stellarcom.org/)
-[Gemma Anderson](http://www.gemma-anderson.co.uk)
++ [Nicola Mößner](http://moessner.stellarcom.org/): ['I see' means I understand](/workshops/wpi9/abstracts/Nicola.html)
++ [Gemma Anderson](http://www.gemma-anderson.co.uk): [Data Visualisation Drawing Workshop](/workshops/wpi9/abstracts/Gemma.html)
 
