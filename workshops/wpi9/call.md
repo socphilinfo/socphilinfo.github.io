@@ -10,7 +10,7 @@ title: Ninth Workshop on the Philosophy of Information
 
 [Home](/workshops/wpi9/home.html) -- [Call for Abstracts](/workshops/wpi9/call.html) -- [Outline](/workshops/wpi9/outline.html) -- [Program](/workshops/wpi9/program.html) -- [Abstracts](/workshops/wpi9/abstracts.html) -- [Organisation](/workshops/wpi9/pc.html) -- [Travel](/workshops/wpi9/travel.html)
 
-## Call for papers
+## Call for papers (closed)
 
 The workshops in the Philosophy of Information bring together various
 philosophical perspectives on the nature and dynamics of information, and
