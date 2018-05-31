@@ -14,7 +14,7 @@ title: Ninth Workshop on the Philosophy of Information
 
 ### Tuesday 26/06/2018
 + 13:00-14:00    [Nicola Mößner](http://moessner.stellarcom.org):	‘I see' means I understand
-+ 14:00-14:45    [Patrick Allo](http://www.logicandinformation.be):	The Design Problem of Visualisation
++ 14:00-14:45    [Patrick Allo](http://www.logicandinformation.be):	[The Design Problem of Visualisation](/workshops/wpi9/abstracts/Patrick.html)
 
 *coffee break*
 
@@ -23,7 +23,7 @@ title: Ninth Workshop on the Philosophy of Information
 
 ### Wednesday 27/06/2018
 + 09:30-10:30    [Jean Paul Van Bendegem](http://jeanpaulvanbendegem.be/home/):	TBC
-+ 10:30-11:15    Tomislav Karačić:	Information Visualization in Mathematics
++ 10:30-11:15    Tomislav Karačić:	[Information Visualization in Mathematics](/workshops/wpi9/abstracts/Tomislav.pdf)
 
 *coffee break*
 
