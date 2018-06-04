@@ -22,7 +22,7 @@ title: Ninth Workshop on the Philosophy of Information
 + 16:00-16:45    [Eliott Hauser](https://unc.academia.edu/elliott): [*Visualization and the Production of Thermophysical Facts. Technologies of Remembering, Techniques of Forgetting*](/workshops/wpi9/abstracts/Eliott.pdf)
 
 ### Wednesday 27/06/2018
-+ 09:30-10:30    [Jean Paul Van Bendegem](http://jeanpaulvanbendegem.be/home/):	TBC
++ 09:30-10:30    [Jean Paul Van Bendegem](http://jeanpaulvanbendegem.be/home/):	*The sign of $\ldots$: its significance in mathematical practice* **TBC**
 + 10:30-11:15    Tomislav Karačić:	[*Information Visualization in Mathematics*](/workshops/wpi9/abstracts/Tomislav.pdf)
 
 *coffee break*
