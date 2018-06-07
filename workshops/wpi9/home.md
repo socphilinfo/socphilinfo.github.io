@@ -12,7 +12,7 @@ title: Ninth Workshop on the Philosophy of Information
 [Home](/workshops/wpi9/home.html) -- [Call for Abstracts](/workshops/wpi9/call.html) -- [Outline](/workshops/wpi9/outline.html) -- [Program](/workshops/wpi9/program.html) -- [Organisation](/workshops/wpi9/pc.html) -- [Travel](/workshops/wpi9/travel.html)
 
 The Ninth Workshop on the Philosophy of Information is held at the Royal
-Flemish Academy of Belgium for Science and Arts.
+Flemish Academy of Belgium for Science and Arts. This workshop is a [contact-forum](http://www.kvab.be/en/contact-forums) of the Academy organised with the additional support of the [DSh VUB](https://student.vub.be/phd/dsh) and the [Centre for Logic and Philosophy of Science](http://www.clwf.be).
 
 ### Registration
 
