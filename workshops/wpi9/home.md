@@ -2,6 +2,7 @@
 author: admin
 category: page
 created: '2018-01-18'
+updated: '2018-06-07'
 layout: page
 redirect_from: [/node/540/, /workshops/wpi9/]
 tags: [SPI workshop]
@@ -12,6 +13,11 @@ title: Ninth Workshop on the Philosophy of Information
 
 The Ninth Workshop on the Philosophy of Information is held at the Royal
 Flemish Academy of Belgium for Science and Arts.
+
+### Registration
+
+Attendance is free and open to all, but registration is required.
+Please send an email to <mailto:stefano.canali@philos.uni-hannover.de> by the **21st of June 2018** (be specific about the days you wish to attend).
 
 ### Theme
 
