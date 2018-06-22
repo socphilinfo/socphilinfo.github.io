@@ -5,7 +5,7 @@ created: '2018-06-19'
 updated: '2018-06-19'
 layout: page
 tags: [SPI workshop]
-title: Ninth Workshop on the Philosophy of Information
+title: Workshops on the Philosophy of Information
 ---
  
 + [Ninth Workshop](wpi9/)
