@@ -8,12 +8,12 @@ tags: [SPI workshop]
 title: Ninth Workshop on the Philosophy of Information
 ---
  
-+ [Ninth Workshop](wpi9/home/)
-+ [Eighth Workshop](wpi8/home/)
-+ [Seventh Workshop](wpi7/home/)
-+ [Sixth Workshop](wpi6/home/)
-+ [Fifth Workshop](wpi5/home/)
-+ [Fourth Workshop](wpi4/home/)
-+ [Third Workshop](wpi3/home/)
-+ [Second Workshop](wpi2/home/)
-+ [First Workshop](wpi1/home/)
++ [Ninth Workshop](wpi9/)
++ [Eighth Workshop](wpi8/)
++ [Seventh Workshop](wpi7/)
++ [Sixth Workshop](wpi6/)
++ [Fifth Workshop](wpi5/)
++ [Fourth Workshop](wpi4/)
++ [Third Workshop](wpi3/)
++ [Second Workshop](wpi2/)
++ [First Workshop](wpi1/)
