@@ -2,13 +2,12 @@
 author: admin
 category: page
 created: '2018-01-24'
-layout: page
+layout: workshop
+workshop: wpi9
 redirect_from: [/node/543/, /workshops/wpi9/program/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
 ---
-
-[Home](/workshops/wpi9/home.html) -- [Call for Abstracts](/workshops/wpi9/call.html) -- [Outline](/workshops/wpi9/outline.html) -- [Program](/workshops/wpi9/program.html) -- [Organisation](/workshops/wpi9/pc.html) -- [Travel](/workshops/wpi9/travel.html)
 
 ## Program
 
@@ -35,5 +34,5 @@ title: Ninth Workshop on the Philosophy of Information
 
 *coffee break*
 
-+ 15:30-16.15    [Wouter Van Acker](https://ulb.academia.edu/WouterVanAcker):	[*New Guidebooks for an Expanding Labyrinth of Knowledge: the World’s Memory Palace of Paul Otlet*](/workshops/wpi9/abstracts/Wouter.pdf)
++ 16:00-16.45    [Wouter Van Acker](https://ulb.academia.edu/WouterVanAcker):	[*New Guidebooks for an Expanding Labyrinth of Knowledge: the World’s Memory Palace of Paul Otlet*](/workshops/wpi9/abstracts/Wouter.pdf)
 
