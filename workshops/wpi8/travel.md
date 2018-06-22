@@ -7,8 +7,8 @@ workshop: wpi8
 redirect_from: [/node/527/, /workshops/wpi8/travel/]
 tags: []
 title: Eighth Workshop on the Philosophy of Information
+subtitle: Travel Information
 ---
-## Travel Information
 
 ### How to get to Ferrara
 

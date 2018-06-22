@@ -7,8 +7,8 @@ workshop: wpi5
 redirect_from: [/node/214/, /workshops/wpi5/call_for_papers/]
 tags: []
 title: Fifth Workshop on the Philosophy of Information
+subtitle: Call for Papers
 ---
-## Call For Papers
 
 Submissions are invited for the Fifth Workshop on the Philosophy of
 Information, which will take place at the University of Hertfordshire,

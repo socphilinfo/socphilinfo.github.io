@@ -1,0 +1,46 @@
+wpi1:
+    - Home: "home.html"
+    - Programme: "program.html"
+wpi3:
+    - Home: "home.html"
+    - Programme: "program.html"
+wpi4:
+    - Home: "home.html"
+    - Call for Papers: "call.html"
+    - Programme: "program.html"
+    - Abstracts: "abstracts.html"
+    - Proceedings: "proceedings.html"
+    - Travel: "travel.html"
+wpi5:
+    - Home: "home.html"
+    - Call for Papers: "call.html"
+    - Programme: "program.html"
+    - Abstracts: "abstracts.html"
+    - Proceedings: "proceedings.html"
+    - Travel: "travel.html"
+wpi6:
+    - Home: "home.html"
+    - Call for Papers: "call.html"
+    - Programme: "program.html"
+    - Dretske Conference: "dretske.html"
+    - Organisation: "pc.html"
+    - Travel: "travel.html"
+wpi7:
+    - Home: "home.html"
+    - Call for Papers: "call.html"
+    - Programme: "program.html"
+    - Organisation: "pc.html"
+    - Travel: "travel.html"
+wpi8:
+    - Home: "home.html"
+    - Call for Papers: "call.html"
+    - Programme: "program.html"
+    - Organisation: "pc.html"
+    - Travel: "travel.html"
+wpi9: 
+    - Home: "home.html"
+    - Call for Papers: "call.html"
+    - Outline: "outline.html"
+    - Programme: "program.html"
+    - Organisation: "pc.html"
+    - Travel: "travel.html"

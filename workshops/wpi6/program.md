@@ -7,8 +7,8 @@ workshop: wpi6
 redirect_from: [/node/429/, /workshops/wpi6/program/]
 tags: []
 title: Sixth Workshop on the Philosophy of Information
+subtitle: Programme
 ---
-## Program
 
 ### Thursday May 15th
 

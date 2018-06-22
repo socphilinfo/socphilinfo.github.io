@@ -3,16 +3,16 @@ author: admin
 category: page
 created: '2012-12-08'
 layout: workshop
-workshop: wpi5
-redirect_from: [/node/216/, /workshops/wpi5/travel_information/]
+workshop: wpi4
+redirect_from: [/node/209/, /workshops/wpi4/travel_information/]
 tags: []
-title: Fifth Workshop on the Philosophy of Information
+title: Fourth Workshop on the Philosophy of Information
 subtitle: Travel Information
 ---
 
-### TRAVEL DIRECTIONS FROM LONDON, HEATHROW AIRPORT TO HATFIELD.
+TRAVEL DIRECTIONS FROM LONDON, HEATHROW AIRPORT TO HATFIELD.
 
-#### RAIL
+RAIL
 
 This involves travelling by both underground (the 'Tube') and overground
 trains.
@@ -51,13 +51,13 @@ and tickets can be collected from machines at most railway stations.
 It is then a short taxi ride, costing approximately £10 from the railway
 station to the Hatfield hotels.
 
-#### EUROSTAR
+EUROSTAR
 
 If you are coming to London on Eurostar, then you will arrive at Kings Cross
 St Pancras International. From here it is a very short walk to St Pancras to
 catch the train to Hatfield
 
-#### COACH/BUS
+COACH/BUS
 
 National Express provides a direct coach service from Heathrow.
 
@@ -71,22 +71,22 @@ http://www.nationalexpress.com/coach/index.cfm?utm_source=Google&utm_medium=ppc&
 The journey takes about 55 minutes. The coach stops outside the Galleria
 shopping mall and from there it is a short walk to the hotels.
 
-### FROM STANSTED AIRPORT TO HATFIELD
+FROM STANSTED AIRPORT TO HATFIELD
 
 It is easier and quicker to use National Express buses (see link above) as the
 rail journey involves travelling into London, and then changing trains, twice,
 to reach Hatfield. Again, booking is strongly recommended and the journey
 takes about 55 minutes.
 
-### UNIVERSITY OF HERTFORDSHIRE
+UNIVERSITY OF HERTFORDSHIRE
 
 You may also find it useful and interesting to visit UH's website at the
-following address www.herts.ac.uk where you will find a wealth of information
+following addresswww.herts.ac.uk where you will find a wealth of information
 and news about the University, including a virtual tour which can be accessed
 at:  
 http://www.pan3sixty.co.uk/virtual_tours/university_of_hertfordshire/university_virtual_tour.html
 
-The website also includes useful travel information at
+The website also includes useful travel information at:  
 http://www.herts.ac.uk/about-us/where-to-find-us/home.cfm
 
 The Workshop will take place in the McClaurin Building which you can see on
@@ -95,6 +95,7 @@ http://www.cilip.org.uk/umbrella2011/exhibitor-
 zone/Documents/deHavilland_Campus_Map.pdf  
 It is a square, modern glass building.
 
-Finally, in case of any problem, please email Mrs Penny Driscoll:  
-Penny Driscoll  
+Finally, in case of any problem, please email:  
+Mrs Penny Driscoll, Penny Driscoll  
 p.j.driscoll2@herts.ac.uk
+

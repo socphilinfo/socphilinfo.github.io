@@ -7,8 +7,8 @@ workshop: wpi7
 redirect_from: [/node/499/, /workshops/wpi7/pc/]
 tags: []
 title: Seventh workshop on the philosophy of information
+subtitle: Programme Committee
 ---
-## Programme Committee
 
   * Phyllis Illari (UCL) -- Chair
   * Giuseppe Primiero (Middlesex University) -- Chair

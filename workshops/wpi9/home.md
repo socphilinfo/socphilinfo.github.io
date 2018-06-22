@@ -8,6 +8,7 @@ workshop: wpi9
 redirect_from: [/node/540/, /workshops/wpi9/]
 tags: [SPI workshop]
 title: Ninth Workshop on the Philosophy of Information
+subtitle: Home
 ---
  
 The Ninth Workshop on the Philosophy of Information is held at the Royal

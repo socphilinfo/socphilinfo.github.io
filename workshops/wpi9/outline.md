@@ -7,9 +7,8 @@ workshop: wpi9
 redirect_from: [/node/547/, /workshops/wpi9/outline/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
+subtitle: Workshop Description
 ---
-
-## Workshop description
 
 The contrast between the epistemological and computational problems of
 visualisation provides us with a first line of inquiry for exploring

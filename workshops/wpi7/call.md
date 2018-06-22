@@ -7,8 +7,8 @@ workshop: wpi7
 redirect_from: [/node/495/, /workshops/wpi7/call/]
 tags: []
 title: Seventh workshop on the philosophy of information
+subtitle: Call for Abstracts
 ---
-## Call for Abstracts
 
 Send your 500-1000 words abstract by 23rd January 2015 in doc, docx, txt, rft
 or pdf format, suitable for anonymous review, to phyllis.illari@ucl.ac.uk.

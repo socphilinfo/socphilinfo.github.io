@@ -7,6 +7,7 @@ workshop: wpi8
 redirect_from: [/node/522/, /workshops/wpi8/]
 tags: [SPI workshop]
 title: Eighth Workshop on the Philosophy of Information
+subtitle: Home
 ---
 The Eighth Workshop on the Philosophy of Information is held at the University
 of Ferrara.

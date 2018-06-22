@@ -7,8 +7,8 @@ workshop: wpi7
 redirect_from: [/node/497/, /workshops/wpi7/program/]
 tags: []
 title: Seventh workshop on the philosophy of information
+subtitle: Programme
 ---
-## Program
 
 ### Monday 30/03/2015
 
@@ -37,7 +37,7 @@ shifts  _( _Keynote_ )_
 
 09.00–10.00: [Judith Simon](https://univie.academia.edu/JudithSimon) (IT
 University of Copenhaghen): Approaching Big Data - Relating Epistemology,
-Ethics & Politics  _( _Keynote_ )_
+Ethics & Politics  _(Keynote)_
 
 _Coffee_
 
@@ -54,8 +54,7 @@ science](https://drive.google.com/file/d/0BxawAJ9PXmckWnNIYnJNbGppMDQ/view?usp=s
 (University of Ca' Foscari, Venice): Big Data: the empiricist approach and its
 philosophical underpinnings
 
-12.00–12.30: [Louise
-Bezuidenhout](http://socialsciences.exeter.ac.uk/sociology/staff/bezuidenhout/)
+12.00–12.30: [Louise Bezuidenhout](http://socialsciences.exeter.ac.uk/sociology/staff/bezuidenhout/)
 (University of Exeter): [Data Creation and Research Environments: Implications
 for the Re-Use of Open
 Data](https://drive.google.com/file/d/0BxawAJ9PXmckZHQxTkVPdW5tY0U/view?usp=sharing)
@@ -78,5 +77,5 @@ _Coffee_
 
 16.00–17.00: [William Wong](http://www.mdx.ac.uk/about-us/our-people/staff-
 directory/wong-william) (Middlesex University): Liberty and Security: VALCRI -
-Because we can … should we?  _( _Keynote_ )_
+Because we can … should we?  _(Keynote)_
 

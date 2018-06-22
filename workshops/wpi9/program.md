@@ -7,9 +7,8 @@ workshop: wpi9
 redirect_from: [/node/543/, /workshops/wpi9/program/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
+subtitle: Programme
 ---
-
-## Program
 
 ### Tuesday 26/06/2018
 + 13:00-14:00    [Nicola Mößner](http://moessner.stellarcom.org):	[*‘I see' means I understand*](/workshops/wpi9/abstracts/Nicola.html)

@@ -7,6 +7,7 @@ workshop: wpi5
 redirect_from: [/node/210/, /workshops/wpi5/]
 tags: [SPI workshop]
 title: Fifth Workshop on the Philosophy of Information
+subtitle: Home
 ---
 
 The Fifth Workshop on the Philosophy of Information is organised for the

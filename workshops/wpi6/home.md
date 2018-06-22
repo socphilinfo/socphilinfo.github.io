@@ -7,6 +7,7 @@ workshop: wpi6
 redirect_from: [/node/427/, /workshops/wpi6/]
 tags: [SPI workshop]
 title: Sixth workshop on the philosophy of information
+subtitle: Home
 ---
 
 The Sixth Workshop on the Philosophy of Information is hosted by the [Future

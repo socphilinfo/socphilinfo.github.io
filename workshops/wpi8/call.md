@@ -7,8 +7,8 @@ workshop: wpi8
 redirect_from: [/node/524/, /workshops/wpi8/call/]
 tags: []
 title: Eighth Workshop on the Philosophy of Information
+subtitle: Call for Abstracts
 ---
-### Call for Abstracts
 
 Extended Deadline
 

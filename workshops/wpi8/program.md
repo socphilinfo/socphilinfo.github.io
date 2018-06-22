@@ -7,8 +7,8 @@ workshop: wpi8
 redirect_from: [/node/523/, /workshops/wpi8/program/]
 tags: []
 title: Eighth Workshop on the Philosophy of Information
+subtitle: Programme
 ---
-## Program
 
 ### Monday 13/06/2016
 

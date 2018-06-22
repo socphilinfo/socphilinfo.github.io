@@ -7,9 +7,8 @@ workshop: wpi9
 redirect_from: [/node/545/, /workshops/wpi9/pc/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
+subtitle: Programme Committee
 ---
-
-## Programme Committee
 
   * Andrew Iliadis (Temple University)
   * Bart Van Kerkhove (Vrije Universiteit Brussel)

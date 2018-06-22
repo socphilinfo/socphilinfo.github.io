@@ -7,8 +7,8 @@ workshop: wpi7
 redirect_from: [/node/500/, /workshops/wpi7/travel/]
 tags: []
 title: Seventh workshop on the philosophy of information
+subtitle: Travel Information
 ---
-Travel Information
 
 The Workshop will take place at Roberts 309, University College London
 

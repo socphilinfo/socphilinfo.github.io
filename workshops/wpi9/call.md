@@ -7,9 +7,10 @@ workshop: wpi9
 redirect_from: [/node/541/, /workshops/wpi9/call/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
+subtitle: Call for papers
 ---
 
-## Call for papers (closed)
+**closed**
 
 The workshops in the Philosophy of Information bring together various
 philosophical perspectives on the nature and dynamics of information, and
@@ -34,7 +35,7 @@ We welcome contributions on the following listed below, and encourage scholars
 of various disciplinary backgrounds to explore the lines of inquiry we
 proposed.
 
-## Topics of interest
+### Topics of interest
 
   * Extensions and critical evaluations of visualisations as models and as epistemic representations in the context of data-intensive science.
   * The epistemology of data and data science in the context of visualisation.
@@ -43,14 +44,14 @@ proposed.
   * Meta-theoretical reflections on the status of theoretical foundations for information visualisation.
   * The role of formal methods for the study of visualisation.
 
-## Important Dates
+### Important Dates
 
   * Submission of abstracts (500 words): 30 March 2018 (**extended**)
   * Decisions: 15 April 2018
   * Programme available: 15 May 2018
   * Workshop: 26-27 June 2018 at the Royal Flemish Academy of Belgium for Science and Arts in Brussels.
 
-## How to Submit an Abstract
+### How to Submit an Abstract
 
 Abstracts of 500-1000 words should be submitted to socphilinfo@gmail.com.
 Submissions will be evaluated by the [programme

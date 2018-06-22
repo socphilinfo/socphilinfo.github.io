@@ -7,8 +7,8 @@ workshop: wpi8
 redirect_from: [/node/526/, /workshops/wpi8/pc/]
 tags: []
 title: Eighth Workshop on the Philosophy of Information
+subtitle: Programme Committee
 ---
-## Programme Committe
 
   * [Andrew Illiadis](https://purdue.academia.edu/AndrewIliadis) (Purdue)
   * [Eric Kerr](https://nus.academia.edu/EricTKerr) (Singapore)

@@ -2,12 +2,13 @@
 author: admin
 category: page
 created: '2014-01-24'
-layout: page
+layout: workshop
+workshop: wpi6
 redirect_from: [/node/435/, /workshops/wpi6/dretske/]
 tags: []
 title: Sixth Workshop on the Philosophy of Information
+subtitle: Conference on the work of Fred Dretske
 ---
-## Conference on the work of Fred Dretske
 
 The workshop is preceded on May 14th by a [Conference on the work of Fred
 Dretske](http://fisoc.org/events/DretskeConference.html) organised by  the

@@ -7,9 +7,8 @@ workshop: wpi9
 redirect_from: [/node/546/, /workshops/wpi9/travel/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
+subtitle: Travel Information
 ---
-
-## Travel Information
 
 ### Venue
 

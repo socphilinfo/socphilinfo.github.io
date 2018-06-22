@@ -7,8 +7,8 @@ workshop: wpi6
 redirect_from: [/node/434/, /workshops/wpi6/pc/]
 tags: []
 title: Sixth Workshop on the Philosophy of Information
+subtitle: Programme Committee
 ---
-## Programme committee
 
   * Patrick Allo (Brussels)
   * Luciano Floridi (Oxford)

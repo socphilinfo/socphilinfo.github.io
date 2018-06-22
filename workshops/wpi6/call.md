@@ -7,8 +7,10 @@ workshop: wpi6
 redirect_from: [/node/428/, /workshops/wpi6/call/]
 tags: []
 title: Sixth Workshop on the Philosophy of Information
+subtitle: Call for Papers
 ---
-## Call for Abstracts (closed)
+
+**closed**
 
 Submissions are invited for the Sixth Workshop on the Philosophy of
 Information, which will take place at Duke University, 15th–16th of May 2014.
