@@ -24,6 +24,8 @@ Information Visualisation.
 
 ### Place
 
+Ockeghemroom (Troon building)
+
 Royal Flemish Academy of Belgium for Science and Arts, Paleis der Academiën,
 Hertogsstraat 1, Brussels, Belgium.
 

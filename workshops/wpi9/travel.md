@@ -17,7 +17,7 @@ Royal Flemish Academy of Belgium for Science and the Arts
 
 Paleis der Academiën, Hertogsstraat 1, 1000 Brussels
 
-Room: Rubens Auditorium
+Room: Ockeghemroom (Troon building)
 
 ### Directions
 
