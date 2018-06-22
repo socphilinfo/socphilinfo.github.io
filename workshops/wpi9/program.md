@@ -2,7 +2,7 @@
 author: admin
 category: page
 created: '2018-01-24'
-layout: page
+layout: workshop
 workshop: wpi9
 redirect_from: [/node/543/, /workshops/wpi9/program/]
 tags: []
