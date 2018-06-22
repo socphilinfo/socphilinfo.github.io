@@ -2,13 +2,12 @@
 author: admin
 category: page
 created: '2018-01-18'
-layout: page
+layout: workshop
+workshop: wpi9
 redirect_from: [/node/541/, /workshops/wpi9/call/]
 tags: []
 title: Ninth Workshop on the Philosophy of Information
 ---
-
-[Home](/workshops/wpi9/home.html) -- [Call for Abstracts](/workshops/wpi9/call.html) -- [Outline](/workshops/wpi9/outline.html) -- [Program](/workshops/wpi9/program.html) -- [Travel](/workshops/wpi9/travel.html)
 
 ## Call for papers (closed)
 
