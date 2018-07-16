@@ -20,7 +20,7 @@ subtitle: Programme
 + 16:00-16:45    [Eliott Hauser](https://unc.academia.edu/elliott): [*Visualization and the Production of Thermophysical Facts. Technologies of Remembering, Techniques of Forgetting*](/workshops/wpi9/abstracts/Eliott.pdf)
 
 ### Wednesday 27/06/2018
-+ 09:30-10:30    [Jean Paul Van Bendegem](http://jeanpaulvanbendegem.be/home/):	[*The sign of $\ldots$: its significance in mathematical practice*](/workshops/wpi9/abstracts/JeanPaul.html)
++ 09:30-10:30    [Jean Paul Van Bendegem](http://jeanpaulvanbendegem.be/home/):	[*The sign of $\ldots$: its significance in mathematical practice*](/workshops/wpi9/abstracts/JeanPaul.html) ([slides](https://drive.google.com/open?id=1DIc5RN1jMewMoGo2ZAqE-V4BRfI_xOqG))
 + 10:30-11:15    Tomislav Karačić:	[*Information Visualization in Mathematics*](/workshops/wpi9/abstracts/Tomislav.pdf)
 
 *coffee break*
