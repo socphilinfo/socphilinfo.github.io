@@ -16,7 +16,7 @@ subtitle: Programme
 
 *coffee break*
 
-+ 15:15-16:00    [Sebastian De Haro](http://www.uva.nl/en/profile/h/a/s.deharo/s.deharo.html): 	[*Visualisation and Interpretation in Theories with and without a Spacetime*](/workshops/wpi9/abstracts/Sebastian.pdf)((slides)[https://drive.google.com/open?id=12Ru48pF_5KJvHSjPEhl_g603RBupXg9U])
++ 15:15-16:00    [Sebastian De Haro](http://www.uva.nl/en/profile/h/a/s.deharo/s.deharo.html): 	[*Visualisation and Interpretation in Theories with and without a Spacetime*](/workshops/wpi9/abstracts/Sebastian.pdf)([slides](https://drive.google.com/open?id=12Ru48pF_5KJvHSjPEhl_g603RBupXg9U))
 + 16:00-16:45    [Eliott Hauser](https://unc.academia.edu/elliott): [*Visualization and the Production of Thermophysical Facts. Technologies of Remembering, Techniques of Forgetting*](/workshops/wpi9/abstracts/Eliott.pdf)
 
 ### Wednesday 27/06/2018
