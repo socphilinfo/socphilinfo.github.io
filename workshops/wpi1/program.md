@@ -10,7 +10,7 @@ title: First Workshop on the Philosophy of Information
 subtitle: Programme
 ---
 
-
+w
   *  **Samson Abramsky (Oxford)**  
  _"Towards Informational Dynamics"_
 

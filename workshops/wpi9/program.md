@@ -12,7 +12,7 @@ subtitle: Programme
 
 ### Tuesday 26/06/2018
 + 13:00-14:00    [Nicola Mößner](http://moessner.stellarcom.org):	[*‘I see' means I understand*](/workshops/wpi9/abstracts/Nicola.html) ([slides](https://drive.google.com/open?id=1Mno-EJh6E5wi39okRVAbk0Juwluqh-Ls))
-+ 14:00-14:45    [Patrick Allo](http://www.logicandinformation.be):	[*The Design Problem of Visualisation*](/workshops/wpi9/abstracts/Patrick.html)
++ 14:00-14:45    [Patrick Allo](http://www.logicandinformation.be):	[*The Design Problem of Visualisation*](/workshops/wpi9/abstracts/Patrick.html) ([slides](https://drive.google.com/open?id=1eYqJ7q84Qv2VNNx0XRzZuP56sg7xCVlQ))
 
 *coffee break*
 
