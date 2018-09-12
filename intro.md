@@ -11,6 +11,6 @@ This book serves as the main reference for an undergraduate course on Philosophy
 
 The book covers all the main topics of the Philosophy of Information and it should be considered an overview and not a comprehensive, in-depth analysis of a philosophical area. As a consequence, 'The Philosophy of Information: a Simple Introduction' does not contain research material as it is not aimed at graduate students or researchers.
 
-The book is offered for free by the team of the π Research Network: Patrick Allo, Bert Baumgaertner, Anthony Beavers, Simon D'Alfonso, Penny Driscoll, Luciano Floridi, Nir Fresco, Carson Grubaugh, Phyllis Illari, Eric Kerr, Giuseppe Primiero, Federica Russo, Christoph Schulz, Mariarosaria Taddeo, Matteo Turilli, Orlin Vakarelov.
+The book is offered for free by the team of the π Research Network: Patrick Allo, Bert Baumgaertner, Anthony Beavers, Simon D'Alfonso, Penny Driscoll, Luciano Floridi, Nir Fresco, Federico Gobbo, Carson Grubaugh, Phyllis Illari, Eric Kerr, Giuseppe Primiero, Federica Russo, Christoph Schulz, Mariarosaria Taddeo, Matteo Turilli, Orlin Vakarelov.
 
 [Download as pdf](/resources/i2pi_2013.pdf)
